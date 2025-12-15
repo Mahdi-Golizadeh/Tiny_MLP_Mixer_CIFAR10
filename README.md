@@ -1,4 +1,4 @@
-# MLP-Mixer Tiny on CIFAR-10
+# Tiny MLP-Mixer on CIFAR-10
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch" alt="PyTorch">
